@@ -1,1 +1,1 @@
-# Artificial-neural-network_program_1
+# Artificial-neural-network_model_1
