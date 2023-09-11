@@ -1,1 +1,1 @@
-# Artificial-Neural-Network-Models-From-Scratch
+# Artificial Neural Network Models From Scratch
